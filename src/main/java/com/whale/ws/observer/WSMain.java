@@ -6,7 +6,7 @@ package com.whale.ws.observer;
  */
 public class WSMain {
     /*
-    * 观察者主类,本s例中的ProductList
+    * 观察者主类,本例中的ProductList
     *       此类是一个单例模式,实例对象需要static修饰,继承了Observable,成员变量包括
     *                                                   1.实例对象的引用
     *                                                   2.需要监听的对象  本例中的productList
